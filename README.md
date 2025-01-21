@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arpan2t
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning laravel
 - 📫 How to reach me bhattaraiarpan2006@gmail.com
 
 <!---
